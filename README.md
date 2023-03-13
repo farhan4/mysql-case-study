@@ -3,4 +3,4 @@ MySQL Questions and Answers
 
 
 
-Dataset Used : IMDB
+Dataset Used : IMDB Movies Dataset
